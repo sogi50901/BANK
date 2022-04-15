@@ -1,0 +1,6 @@
+C:\Users\SolmazSogol\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\SolmazSogol\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SolmazSogol\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\SolmazSogol\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\SolmazSogol\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\SolmazSogol\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb

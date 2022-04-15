@@ -1,0 +1,7 @@
+C:\Users\SolmazSogol\source\repos\BANK2\BANK2\obj\Debug\BANK2.csprojAssemblyReference.cache
+C:\Users\SolmazSogol\source\repos\BANK2\BANK2\obj\Debug\BANK2.csproj.CoreCompileInputs.cache
+C:\Users\SolmazSogol\source\repos\BANK2\BANK2\bin\Debug\BANK2.exe.config
+C:\Users\SolmazSogol\source\repos\BANK2\BANK2\bin\Debug\BANK2.exe
+C:\Users\SolmazSogol\source\repos\BANK2\BANK2\bin\Debug\BANK2.pdb
+C:\Users\SolmazSogol\source\repos\BANK2\BANK2\obj\Debug\BANK2.exe
+C:\Users\SolmazSogol\source\repos\BANK2\BANK2\obj\Debug\BANK2.pdb

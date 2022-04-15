@@ -1,0 +1,6 @@
+C:\Users\SolmazSogol\source\repos\Behdasht va salamat quera\Behdasht va salamat quera\bin\Debug\Behdasht va salamat quera.exe
+C:\Users\SolmazSogol\source\repos\Behdasht va salamat quera\Behdasht va salamat quera\bin\Debug\Behdasht va salamat quera.pdb
+C:\Users\SolmazSogol\source\repos\Behdasht va salamat quera\Behdasht va salamat quera\obj\Debug\Behdasht va salamat quera.csproj.AssemblyReference.cache
+C:\Users\SolmazSogol\source\repos\Behdasht va salamat quera\Behdasht va salamat quera\obj\Debug\Behdasht va salamat quera.csproj.CoreCompileInputs.cache
+C:\Users\SolmazSogol\source\repos\Behdasht va salamat quera\Behdasht va salamat quera\obj\Debug\Behdasht va salamat quera.exe
+C:\Users\SolmazSogol\source\repos\Behdasht va salamat quera\Behdasht va salamat quera\obj\Debug\Behdasht va salamat quera.pdb
